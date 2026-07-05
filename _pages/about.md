@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p>ELD 232 (Bâtiment ELD)</p>
     <p>Station 11</p>
-    <p>CH-1015 Lausanne, Switzerland</p>
+    <p>CH-1015 Lausanne</p>
+    <p>Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
