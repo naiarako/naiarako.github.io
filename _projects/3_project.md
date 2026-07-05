@@ -4,7 +4,7 @@ title: Anisotropy
 description: Speed-of-sound anisotropy in muscle
 img: /assets/img/anisotropy.png
 importance: 1
-category: current
+category: past
 ---
 
 <strong>Note: You can find further details about this work in our [manuscript](https://doi.org/10.36227/techrxiv.15104529.v2). We also share a [jupyter-notebook](https://github.com/naiarako/UltrasoundAnisotropy) to solve the probabilistic inverse problem described in the manuscript. </strong>
