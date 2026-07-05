@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem "sass-embedded", ">= 1.79"
 gem 'jekyll'
 
 # Core plugins that directly affect site building
